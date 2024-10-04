@@ -1,0 +1,9 @@
+Error al procesar la linea: {"nombre": "Nissy", "apellido": "Dell Casa", "email": "ndellcasa2@godaddy.com", "genero": "Female"
+
+Excepcion: '{' was never closed (<string>, line 1)
+Error al procesar la linea: {"nombre": "Marj", "apellido": "Impy", email": "mimpy5@youku.com", "genero": "Non-binary"}
+
+Excepcion: unterminated string literal (detected at line 1) (<string>, line 1)
+Error al procesar la linea: {"nombre": "Robena", "apellido": "Selcraig", "email": "rselcraig7@jugem.jp", "genero": Female}
+
+Excepcion: name 'Female' is not defined
